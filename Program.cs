@@ -6,7 +6,7 @@ namespace advanced_git_001
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Class Test!");
+            Console.WriteLine("Hello Test!");
         }
     }
 }
